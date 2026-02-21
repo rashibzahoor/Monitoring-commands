@@ -1,0 +1,26 @@
+Clone Repository (PRO METHOD — NO ERRORS EVER)
+=============================================
+
+Go to Desktop=>cd Desktop
+
+Now clone=>git clone https://github.com/rashibzahoor/Monitoring-commands.git
+
+Move Your Files
+==============
+
+Copy your files from=>git_commands
+
+paste into=>Monitoring-commands
+
+Open Terminal Inside New Folder=>cd Monitoring-commands
+
+Check=>git status
+
+Add Files=>git add .
+
+Commit=>git commit -m "First upload"
+
+Push=>git push
+
+
+
