@@ -1,0 +1,21 @@
+Node Exporter → Collects system metrics
+
+Prometheus → Stores & queries metrics
+
+Grafana → Visualizes metrics
+
+Your data flow is=>System → Node Exporter → Prometheus → Grafana Dashboard
+
+The website where we need to download JSON=>https://grafana.com/grafana/dashboards/1860-node-exporter-full/
+
+WSL home directory=>cd ~
+pwd
+- - - - - - - - - - - - - - - - - - -
+====================================
+InfluxDB → Stores metrics (database)
+
+Telegraf → Collects metrics (agent)
+
+Grafana → Visualizes metrics (dashboard)
+
+
