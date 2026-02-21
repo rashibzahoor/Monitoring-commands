@@ -1,0 +1,31 @@
+project folder=>cd path-to-your-folder
+
+Check files=>dir
+
+Linux/Mac=>ls
+
+Initialize Git (only first time in this folder)=>git init
+
+Add files to staging=>git add .
+
+Commit files=>git commit -m "first upload"
+
+Copy your GitHub repo URL and run:=>git remote add origin https://github.com/USERNAME/REPO.git
+
+Check=>git remote -v
+
+Set main branch=>git branch -M main
+
+Push to GitHub =>git push -u origin main
+
+After First Upload (Future Updates)=>git add .
+git commit -m "update"
+git push
+
+
+Quick Flow (Remember This)=>git init
+git add .
+git commit -m "message"
+git remote add origin URL
+git branch -M main
+git push -u origin main
